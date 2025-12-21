@@ -1,0 +1,14 @@
+C:\Users\brw29\OneDrive\שולחן העבודה\פרקטיקוד2\HtmlSerializer\bin\Debug\net9.0\HtmlSerializer.exe
+C:\Users\brw29\OneDrive\שולחן העבודה\פרקטיקוד2\HtmlSerializer\bin\Debug\net9.0\HtmlSerializer.deps.json
+C:\Users\brw29\OneDrive\שולחן העבודה\פרקטיקוד2\HtmlSerializer\bin\Debug\net9.0\HtmlSerializer.runtimeconfig.json
+C:\Users\brw29\OneDrive\שולחן העבודה\פרקטיקוד2\HtmlSerializer\bin\Debug\net9.0\HtmlSerializer.dll
+C:\Users\brw29\OneDrive\שולחן העבודה\פרקטיקוד2\HtmlSerializer\bin\Debug\net9.0\HtmlSerializer.pdb
+C:\Users\brw29\OneDrive\שולחן העבודה\פרקטיקוד2\HtmlSerializer\obj\Debug\net9.0\HtmlSerializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brw29\OneDrive\שולחן העבודה\פרקטיקוד2\HtmlSerializer\obj\Debug\net9.0\HtmlSerializer.AssemblyInfoInputs.cache
+C:\Users\brw29\OneDrive\שולחן העבודה\פרקטיקוד2\HtmlSerializer\obj\Debug\net9.0\HtmlSerializer.AssemblyInfo.cs
+C:\Users\brw29\OneDrive\שולחן העבודה\פרקטיקוד2\HtmlSerializer\obj\Debug\net9.0\HtmlSerializer.csproj.CoreCompileInputs.cache
+C:\Users\brw29\OneDrive\שולחן העבודה\פרקטיקוד2\HtmlSerializer\obj\Debug\net9.0\HtmlSerializer.dll
+C:\Users\brw29\OneDrive\שולחן העבודה\פרקטיקוד2\HtmlSerializer\obj\Debug\net9.0\refint\HtmlSerializer.dll
+C:\Users\brw29\OneDrive\שולחן העבודה\פרקטיקוד2\HtmlSerializer\obj\Debug\net9.0\HtmlSerializer.pdb
+C:\Users\brw29\OneDrive\שולחן העבודה\פרקטיקוד2\HtmlSerializer\obj\Debug\net9.0\HtmlSerializer.genruntimeconfig.cache
+C:\Users\brw29\OneDrive\שולחן העבודה\פרקטיקוד2\HtmlSerializer\obj\Debug\net9.0\ref\HtmlSerializer.dll
